@@ -1,0 +1,6 @@
+- Mudar ícone
+- Mudar nome do arquivo de ícone
+- No popup decidir o tipo de filtro, a estética dos jogos filtrados.
+- Esconder jogos esoccer virtuais
+- No popup fazer uma ação que impacte o site
+- Limitar para funcionar somente no domínio da betano.
