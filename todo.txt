@@ -2,5 +2,8 @@
 - Mudar nome do arquivo de ícone
 - No popup decidir o tipo de filtro, a estética dos jogos filtrados.
 - Esconder jogos esoccer virtuais
-- No popup fazer uma ação que impacte o site
-- Limitar para funcionar somente no domínio da betano.
+- No popup fazer uma ação que impacte o site - ok
+- Limitar para funcionar somente no domínio da betano. - ok
+- Existem dois scripts, um pro popup (popup.js) e um pro conteúdo (content.js)
+- Botão para limpar filtros
+- Rotina para filtrar elementos ainda não paginados https://stackoverflow.com/questions/70799156/document-queryselectorall-not-getting-paginated-items

@@ -1,5 +1,36 @@
 <html>
-  <body>
-    <h1>Filtros</h1>
-  </body>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <script src="popup.js" defer></script>
+</head>
+
+<body>
+  <h1>Filtros da Betano</h1>
+  <div>
+    <!-- Rounded switch -->
+    <label class="switch">
+      <input id="checkP" type="checkbox">
+      <span class="slider round"></span>
+    </label>
+    <p>
+      Tempo: 
+      <input type="text" name="" id="tempo" placeholder="Tempo" value="70" size="5">
+    </p>
+    <p>
+      Diferença: 
+      <input type="text" name="diferenca" id="diferenca" placeholder="Diferença" value="2" size="5">
+    </p>
+    <p>
+      Odds: 
+      <input type="text" name="odds" id="odds" placeholder="Odds" value="1.04" size="5">
+    </p>
+    <p>
+      <button id="filtrar">Filtrar</button>
+    </p>
+  </div>
+
+</body>
+
 </html>
